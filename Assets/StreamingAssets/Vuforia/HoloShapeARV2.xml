@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig>
+  <Tracking>
+    <ImageTarget name="play7" size="100.000000 51.126762" />
+    <ImageTarget name="play6" size="100.000000 51.126762" />
+    <ImageTarget name="play5" size="100.000000 51.126762" />
+  </Tracking>
+</QCARConfig>
